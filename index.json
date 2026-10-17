@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "docformatter",
+  "versions": [
+    {
+      "commit": "f8303162e613ae818eeeea0027cb0f8294065ce9",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:25:35.524524+00:00"
+    }
+  ]
+}
